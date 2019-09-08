@@ -18,7 +18,7 @@ Work for Fall Quarter 2017 UCSD M.A.S Program.
 
 [Day 5: Scraping MLB stats from ESPN](https://github.com/ringhilterra/DSE200-Python_for_Data_Analysis/blob/master/day_5_mining_the_Social_web/exercises/Scraping_Exercise_1.ipynb "Day 5: Scraping MLB stats from ESPN")
 
-[Day 5: Visualizing the history of the ebola epidemic](https://github.com/ringhilterra/DSE200-Python_for_Data_Analysis/blob/master/day_5_mining_the_Social_web/exercises/Scraping_Exercise_2.ipynb" Day 5: Visualizing the history of the ebola epidemic") 
+[Day 5: Visualizing the history of the ebola epidemic](https://github.com/ringhilterra/DSE200-Python_for_Data_Analysis/blob/master/day_5_mining_the_Social_web/exercises/Scraping_Exercise_2.ipynb "Day 5: Visualizing the history of the ebola epidemic") 
 
 [Day 5: OAuth, Twitter API](https://github.com/ringhilterra/DSE200-Python_for_Data_Analysis/blob/master/day_5_mining_the_Social_web/exercises/Scraping_Exercise_3.ipynb "Day 5: OAuth, Twitter API")
 
