@@ -1,6 +1,7 @@
 # DSE200-Python_for_Data_Analysis
 
-Work for Fall Quarter 2017 UCSD M.A.S Program.
+Work for Fall Quarter 2017 UCSD M.A.S Program. Python for Data Analysis class, DSE 200 .
+
 
 You can view the .ipynb notebook files on [nbviewer](https://nbviewer.jupyter.org/github/ringhilterra/DSE200-Python_for_Data_Analysis/tree/master/).
 
@@ -27,3 +28,5 @@ You can view the .ipynb notebook files on [nbviewer](https://nbviewer.jupyter.or
 ## Exams 
 
 [Final - Analyze the evolution of poverty, income distribution and investment in education in the United States](https://github.com/ringhilterra/DSE200-Python_for_Data_Analysis/blob/master/final_exam_2017/Final%20exam%20DSE%20200.ipynb "Final - Analyze the evolution of poverty, income distribution and investment in education in the United States")
+
+#### DSE200
