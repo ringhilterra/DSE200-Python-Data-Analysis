@@ -2,6 +2,8 @@
 
 Work for Fall Quarter 2017 UCSD M.A.S Program.
 
+You can view the .ipynb notebook files on [nbviewer](https://nbviewer.jupyter.org/github/ringhilterra/DSE200-Python_for_Data_Analysis/tree/master/).
+
 ## Jupyter Notebooks for Assignments
     
 [Day 1: Unix Exercises (Reconstructing files from segments, Word and line count,cat, pipelines etc)](https://github.com/ringhilterra/DSE200-Python_for_Data_Analysis/blob/master/day_1_python_and_unix/5_unix_exercises.ipynb "Day 1: Unix Exercises (Reconstructing files from segments, Word and line count,cat, pipelines etc)")
