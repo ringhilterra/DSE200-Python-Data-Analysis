@@ -1,6 +1,6 @@
-# DSE200 Python for Data Analysis
+# DSE200 - Python for Data Analysis
 
-Work for Fall Quarter 2017 UCSD M.A.S Program. Python for Data Analysis class, DSE 200 .
+Work for Fall Quarter 2017 UCSD Masters of Data Science and Engineering Program. Python for Data Analysis class, DSE 200 .
 
 
 The links below you let you render the jupyter notebooks directly on [nbviewer](https://nbviewer.jupyter.org/github/ringhilterra/DSE200-Python_for_Data_Analysis/tree/master/).
